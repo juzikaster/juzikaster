@@ -2,7 +2,7 @@
 
 # Hi there, my name is Illia 👋
 
-I'am student from Ukraine, now study in Poland. Doing mostly game dev stuff but also interested in electronic
+I'm student from Ukraine, now studying in Poland. Doing mostly game dev stuff but also interested in electronic
 
 ## I speak: <br>
 > English <br>
