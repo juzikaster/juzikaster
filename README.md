@@ -24,5 +24,5 @@ I'm student from Ukraine, now studying in Poland. Doing mostly game dev stuff bu
 
 
 ## Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=juzikaster&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juzikaster&theme=dracula&layout=compact)
+![GitHub stats](https://readme-stats-deploy.vercel.app/api?username=juzikaster&theme=dracula)
+![Top Langs](https://readme-stats-deploy.vercel.app/api/top-langs/?username=juzikaster&theme=dracula&layout=compact)
