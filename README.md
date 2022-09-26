@@ -21,8 +21,3 @@ I'm student from Ukraine, now studying in Poland. Doing mostly game dev stuff bu
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-
-
-## Stats
-![GitHub stats](https://readme-stats-deploy.vercel.app/api?username=juzikaster&theme=dracula)
-![Top Langs](https://readme-stats-deploy.vercel.app/api/top-langs/?username=juzikaster&theme=dracula&layout=compact)
